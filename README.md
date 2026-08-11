@@ -1,6 +1,6 @@
 Hi there 👋
 
-🚀 Learning | Building | Improvinf Every Day
+🚀 Learning | Building | Improving Every Day
 I'm Rajesh Varma, with a passion for Data Engineering, Generative AI, Prompt Engineering, and Git.
 
 - 🔭 I’m currently working on Pyspark ETL Projects and hands-on Data Engineering workflows.
